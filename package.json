@@ -2,5 +2,10 @@
   "name": "Yamzz-quotes",
   "version": "1.0.0",
   "type": "module",
-  ...
+  "scripts": {
+    "start": "node /api/quotes.js"
+  },
+  "dependencies": {
+    // dependencies kamu di sini
+  }
 }
